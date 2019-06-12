@@ -1,4 +1,4 @@
-# Private_AI_Differential_Privacy Udacity_Facebook_Challenge_Scholarship.
+# Differential_Privacy Udacity&Facebook Challenge Scholarship 2019.
 
 1.Creation of a virtual enviroment pysyft and installation of main libraries in conda:
 conda create -n pysyft python=3
