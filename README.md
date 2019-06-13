@@ -1,7 +1,7 @@
 Private_AI_Differential_Privacy
 Differential_Privacy Udacity&Facebook Challenge Scholarship 2019.
 
-
+Task: Creation of a function that can generate a number of databases from an input database, for details see point 2)
 
 1.Creation of a virtual enviroment pysyft and installation of main libraries in conda: Python3.6, Torch 1.0.1, Numpy
 
